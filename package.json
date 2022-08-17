@@ -1,0 +1,13 @@
+{
+  "name": "aws-lambda-sns",
+  "version": "1.0.3",
+  "description": "AWS cd example",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dmichelena/aws-lambda-sns.git"
+  },
+  "files": ["index.js"],
+  "author": "Diego Michelena",
+  "license": "MIT"
+}
